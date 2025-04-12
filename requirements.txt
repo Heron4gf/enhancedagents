@@ -1,0 +1,8 @@
+
+google-adk>=0.4.0
+python-dotenv
+litellm>=1.17.2
+langchain
+langchain-community
+tavily-python
+sift-stack-py
